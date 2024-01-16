@@ -45,7 +45,7 @@ OS: <br>
 ## Projects
 <h4>Status Metrô e CPTM SP: </h4>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fefagundes-15&repo=metro-cptm-sp&theme=radical)](https://github.com/fefagundes-15/metro-cptm-sp)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fefagundes-15&repo=metro-cptm-sp&theme=radical)](https://fefagundes-15.github.io/metro-cptm-sp/)
 
 
 ## Personal information
