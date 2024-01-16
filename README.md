@@ -1,13 +1,13 @@
 <h1 align= center>Felipe Francisco</h1>
 <p align="justify">
-<h4>Summary</h4>
+<h3>Summary</h3>
 - 22 years, <br>
 - Working as Jr. Digital Analyst on JCDecaux Brasil; <br>
 - Bachelor's degree in Information Systems course at Universidade Metodista de SP; <br>
 - Information Technology Technician at Senac Santo André; <br>
 - Second level of Advanced English (MAC2) at Cultura Inglesa Santo André - Cambridge Certificate (PET - B1 Preliminary).
 </p>
-
+<br>
 
 ## Skills
 Languages: <br>
@@ -42,16 +42,23 @@ OS: <br>
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
+<br>
+
+
 ## Projects
 <h4>Status Metrô e CPTM SP: </h4>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fefagundes-15&repo=metro-cptm-sp&theme=radical)](https://fefagundes-15.github.io/metro-cptm-sp/)
+
+<br>
 
 
 ## Personal information
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fefagundes-15&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fefagundes-15&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+<br>
 
 
 ## Contact
