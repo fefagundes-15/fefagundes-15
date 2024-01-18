@@ -1,4 +1,4 @@
-<h1 align= center>Felipe Francisco</h1>
+<h1 align= center">Felipe Francisco</h1>
 <p align="justify">
 <h3>Summary</h3>
 - 22 years, <br>
@@ -46,7 +46,7 @@ OS: <br>
 
 
 ## Projects
-<h4>Status Metrô e CPTM SP: </h4>
+<h3>Status Metrô e CPTM SP: </h3>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fefagundes-15&repo=metro-cptm-sp&theme=radical)](https://fefagundes-15.github.io/metro-cptm-sp/)
 
