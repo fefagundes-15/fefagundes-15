@@ -57,7 +57,7 @@ OS: <br>
 
 <h3>Currency converter: </h3>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fefagundes-15&repo=metro-cptm-sp&theme=radical)](https://fefagundes-15.github.io/Currency-converter/)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fefagundes-15&repo=Currency-converter&theme=radical)](https://fefagundes-15.github.io/Currency-converter/)
 <br>
 
 
