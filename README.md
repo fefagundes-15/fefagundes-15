@@ -55,6 +55,11 @@ OS: <br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fefagundes-15&repo=metro-cptm-sp&theme=radical)](https://fefagundes-15.github.io/metro-cptm-sp/)
 <br>
 
+<h3>Currency converter: </h3>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fefagundes-15&repo=metro-cptm-sp&theme=radical)](https://fefagundes-15.github.io/Currency-converter/)
+<br>
+
 
 ## Personal information
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fefagundes-15&show_icons=true&theme=radical)
