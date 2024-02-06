@@ -45,10 +45,6 @@ OS: <br>
 
 
 ## Projects
-<h3>Portfolio: </h3>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fefagundes-15&repo=Portfolio&theme=radical)](https://fefagundes-15.github.io/Portfolio/)
-<br>
 
 <h3>Status Metrô e CPTM SP: </h3>
 
