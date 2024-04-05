@@ -46,6 +46,11 @@ OS: <br>
 
 ## Projects
 
+<h3>Shop Website: </h3>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fefagundes-15&repo=Shop-Website&theme=radical)](https://fefagundes-15.github.io/Shop-Website/)
+<br>
+
 <h3>Status Metrô e CPTM SP: </h3>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fefagundes-15&repo=metro-cptm-sp&theme=radical)](https://fefagundes-15.github.io/metro-cptm-sp/)
