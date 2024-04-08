@@ -3,9 +3,9 @@
 <h3>Summary</h3>
 - 23 years, <br>
 - Working as Jr. Digital Analyst on JCDecaux Brasil; <br>
-- Postgraduate Specialization in Full-Stack Development at PUC Minas - In progress; <br>
-- Bachelor's degree in Information Systems course at Universidade Metodista de SP - Completed; <br>
-- Information Technology Technician at Senac Santo André - Completed; <br>
+- Postgraduate Specialization in Full-Stack Development at PUC Minas - <strong>In progress</strong>; <br>
+- Bachelor's degree in Information Systems course at Universidade Metodista de SP - <strong>Completed</strong>; <br>
+- Information Technology Technician at Senac Santo André - <strong>Completed</strong>; <br>
 - Second level of Advanced English (MAC2) at Cultura Inglesa Santo André - Cambridge Certificate (PET - B1 Preliminary).
 </p>
 <br>
