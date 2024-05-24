@@ -47,14 +47,14 @@ OS: <br>
 
 ## Projects
 
+<h3>Clock: </h3>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fefagundes-15&repo=clock&theme=radical)](https://fefagundes-15.github.io/clock/)
+<br>
+
 <h3>Shop Website: </h3>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fefagundes-15&repo=Shop-Website&theme=radical)](https://fefagundes-15.github.io/Shop-Website/)
-<br>
-
-<h3>Status Metrô e CPTM SP: </h3>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fefagundes-15&repo=metro-cptm-sp&theme=radical)](https://fefagundes-15.github.io/metro-cptm-sp/)
 <br>
 
 <h3>Currency converter: </h3>
@@ -62,6 +62,10 @@ OS: <br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fefagundes-15&repo=Currency-converter&theme=radical)](https://fefagundes-15.github.io/Currency-converter/)
 <br>
 
+<h3>Status Metrô e CPTM SP: </h3>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fefagundes-15&repo=metro-cptm-sp&theme=radical)](https://fefagundes-15.github.io/metro-cptm-sp/)
+<br>
 
 ## Personal information
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fefagundes-15&show_icons=true&theme=radical)
