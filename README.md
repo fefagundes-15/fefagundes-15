@@ -37,6 +37,9 @@ Office: <br>
 ![Visio](https://img.shields.io/badge/Microsoft_Visio-3955A3?style=for-the-badge&logo=microsoft-visio&logoColor=white)
 ![Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 
+Power Plataform: <br>
+![Power Automate](https://img.shields.io/badge/power_automate-1c42bd?style=for-the-badge&logo=powerbi&logoColor=black)
+
 OS: <br>
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -49,22 +52,17 @@ OS: <br>
 
 <h3>Clock: </h3>
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fefagundes-15&repo=Tempus-lux&theme=radical)](https://fefagundes-15.github.io/Tempus-Lux/)
+<br>
+
+<h3>Clock: </h3>
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fefagundes-15&repo=clock&theme=radical)](https://fefagundes-15.github.io/clock/)
 <br>
 
 <h3>Shop Website: </h3>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fefagundes-15&repo=Shop-Website&theme=radical)](https://fefagundes-15.github.io/Shop-Website/)
-<br>
-
-<h3>Currency converter: </h3>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fefagundes-15&repo=Currency-converter&theme=radical)](https://fefagundes-15.github.io/Currency-converter/)
-<br>
-
-<h3>Status Metrô e CPTM SP: </h3>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fefagundes-15&repo=metro-cptm-sp&theme=radical)](https://fefagundes-15.github.io/metro-cptm-sp/)
 <br>
 
 ## Personal information
