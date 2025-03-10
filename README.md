@@ -1,12 +1,12 @@
 <h1 align= center">Felipe Francisco</h1>
 <p align="justify">
 <h3>Summary</h3>
-- 23 years, <br>
-- Working as Jr. Digital Analyst on JCDecaux Brasil; <br>
-- Postgraduate Specialization in Full-Stack Development at PUC Minas - <strong>In progress</strong>; <br>
-- Bachelor's degree in Information Systems course at Universidade Metodista de SP - <strong>Completed</strong>; <br>
-- Information Technology Technician at Senac Santo André - <strong>Completed</strong>; <br>
-- Second level of Advanced English (MAC2) at Cultura Inglesa Santo André - Cambridge Certificate (PET - B1 Preliminary).
+• Front-End Developer with experience in HTML, CSS, and JavaScript, currently working as a Junior Digital Analyst at JCDecaux Brazil. <br>
+• Currently studying a Postgraduate degree in Full-Stack Development at PUC Minas, expanding knowledge in programming and systems. <br>
+• Graduated in Bachelor's Degree in Information Systems from Universidade Metodista de SP and IT Technician from Senac Santo André. <br>
+• Certified in Cambridge English B1 Preliminary (PET), having studied up to the MAC2 (Advanced II) level at Cultura Inglesa, with ongoing progress in English language learning. <br>
+• Passionate about development, technology, and innovation, always striving to enhance my skills to contribute to high-impact projects. <br>
+• GitHub: https://github.com/fefagundes-15 <br>
 </p>
 <br>
 
@@ -50,7 +50,10 @@ OS: <br>
 
 ## Projects
 
+<h3>Tempus Lux: </h3>
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fefagundes-15&repo=Tempus-lux&theme=radical)](https://fefagundes-15.github.io/Tempus-Lux/)
+<br>
 
 <h3>Clock: </h3>
 
