@@ -50,10 +50,7 @@ OS: <br>
 
 ## Projects
 
-<h3>Tempus Lux: </h3>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fefagundes-15&repo=Tempus-lux&theme=radical)](https://fefagundes-15.github.io/Tempus-Lux/)
-<br>
 
 <h3>Clock: </h3>
 
