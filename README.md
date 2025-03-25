@@ -50,6 +50,11 @@ OS: <br>
 
 ## Projects
 
+<h3>Lumora Gallery: </h3>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fefagundes-15&repo=Lumora-Gallery&theme=radical)](https://fefagundes-15.github.io/Lumora-Gallery/)
+<br>
+
 <h3>Tempus Lux: </h3>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fefagundes-15&repo=Tempus-lux&theme=radical)](https://fefagundes-15.github.io/Tempus-Lux/)
