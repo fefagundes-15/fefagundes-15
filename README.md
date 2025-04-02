@@ -50,6 +50,11 @@ OS: <br>
 
 ## Projects
 
+<h3>Pet Premium: </h3>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fefagundes-15&repo=Pet-Premium&theme=radical)](https://fefagundes-15.github.io/Pet-Premium/)
+<br>
+
 <h3>Lumora Gallery: </h3>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fefagundes-15&repo=Lumora-Gallery&theme=radical)](https://fefagundes-15.github.io/Lumora-Gallery/)
