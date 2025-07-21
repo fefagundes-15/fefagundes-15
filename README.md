@@ -50,7 +50,7 @@ OS: <br>
 
 ## Projects
 
-<h3>Pet Premium: </h3>
+<h3>To-Do List: </h3>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fefagundes-15&repo=to-do-list&theme=radical)](https://fefagundes-15.github.io/to-do-list/)
 <br>
