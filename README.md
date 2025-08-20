@@ -50,6 +50,11 @@ OS: <br>
 
 ## Projects
 
+<h3>Temperature Conversion: </h3>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fefagundes-15&repo=Temperature-Conversion&theme=radical)](https://fefagundes-15.github.io/Temperature-Conversion/)
+<br>
+
 <h3>To-Do List: </h3>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fefagundes-15&repo=to-do-list&theme=radical)](https://fefagundes-15.github.io/to-do-list/)
@@ -75,10 +80,6 @@ OS: <br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fefagundes-15&repo=clock&theme=radical)](https://fefagundes-15.github.io/clock/)
 <br>
 
-<h3>Shop Website: </h3>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fefagundes-15&repo=Shop-Website&theme=radical)](https://fefagundes-15.github.io/Shop-Website/)
-<br>
 
 ## Personal information
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fefagundes-15&show_icons=true&theme=radical)
