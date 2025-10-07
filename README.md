@@ -80,6 +80,11 @@ OS: <br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fefagundes-15&repo=Tempus-lux&theme=radical)](https://fefagundes-15.github.io/Tempus-Lux/)
 <br>
 
+<h3>Calculator: </h3>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fefagundes-15&repo=calculator&theme=radical)](https://fefagundes-15.github.io/calculator/)
+<br>
+
 <h3>Clock: </h3>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fefagundes-15&repo=clock&theme=radical)](https://fefagundes-15.github.io/clock/)
