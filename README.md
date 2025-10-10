@@ -60,6 +60,11 @@ OS: <br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fefagundes-15&repo=Temperature-Conversion&theme=radical)](https://fefagundes-15.github.io/Temperature-Conversion/)
 <br>
 
+<h3>TaskFlow Board: </h3>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fefagundes-15&repo=interactive-planner&theme=radical)](https://fefagundes-15.github.io/interactive-planner/)
+<br>
+
 <h3>To-Do List: </h3>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fefagundes-15&repo=to-do-list&theme=radical)](https://fefagundes-15.github.io/to-do-list/)
