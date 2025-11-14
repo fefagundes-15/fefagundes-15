@@ -50,6 +50,11 @@ OS: <br>
 
 ## Projects
 
+<h3>Tic Tac Toe: </h3>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fefagundes-15&repo=tic-tac-toe&theme=radical)](https://fefagundes-15.github.io/tic-tac-toe/)
+<br>
+
 <h3>Guess the Flag!: </h3>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fefagundes-15&repo=guess-the-flag&theme=radical)](https://fefagundes-15.github.io/guess-the-flag/)
