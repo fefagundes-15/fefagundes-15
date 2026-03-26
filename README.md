@@ -50,6 +50,11 @@ OS: <br>
 
 ## Projects
 
+<h3>Pokémon Game: </h3>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fefagundes-15&repo=pokemon-turn-based-battle&theme=radical)](https://fefagundes-15.github.io/pokemon-turn-based-battle/)
+<br>
+
 <h3>Tic Tac Toe: </h3>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fefagundes-15&repo=tic-tac-toe&theme=radical)](https://fefagundes-15.github.io/tic-tac-toe/)
